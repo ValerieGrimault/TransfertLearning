@@ -1,0 +1,22 @@
+Le transfer learning (ou apprentissage par transfert) correspond à un des champs de recherche du machine learning visant à transférer des connaissances 
+d'une ou plusieurs tâches sources vers une ou plusieurs tâches cibles. 
+Avec cette technique, il est possible d’appliquer des données apprises à partir de tâches antérieures sur de nouvelles tâches ou domaines partageant 
+des similitudes.
+
+Il peut s'agir de la capacité d’un système à reconnaître et appliquer des connaissances et des compétences, apprises à partir de tâches antérieures,
+sur de nouvelles tâches ou domaines partageant des similitudes.
+En général, il existe plusieurs branches du Transfer Learning en fonction de la problématique qui se pose à nous. 
+La principale dichotomie est la même que pour celle du Machine Learning : la labellisation des données. 
+Si ces dernières sont labellisées concernant le domaine cible alors nous sommes dans la branche Inductive Transfer Learning, 
+sinon c’est du Unsupervised Transfer Learning.
+
+OpenCV correspond à une librairie qui met à disposition de nombreuses fonctionnalités très diversifiées 
+permettant de créer des programmes en partant des données brutes pour aller jusqu'à la création d'interfaces graphiques basiques.
+On l'utilise pour le traitement d'images et de vidéos. 
+Elle met également à disposition quelques fonctions d'interfaces graphiques, 
+comme les curseurs à glissière, les contrôles associés aux événements souris, ou bien l'incrustation de texte dans une image.
+OpenCV fournit un ensemble de plus de 2500 algorithmes de vision par ordinateur, accessibles au travers d’API.
+Ce qui permet d’effectuer tout un tas de traitements sur des images (extraction de couleurs, détection de visages, de formes, application de filtres,…). 
+Ces algorithmes se basent principalement sur des calculs mathématiques complexes, concernant surtout les traitements sur les matrices 
+(car une image peut être considérée comme une matrice de pixels).
+
