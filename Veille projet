@@ -20,3 +20,11 @@ Ce qui permet d’effectuer tout un tas de traitements sur des images (extractio
 Ces algorithmes se basent principalement sur des calculs mathématiques complexes, concernant surtout les traitements sur les matrices 
 (car une image peut être considérée comme une matrice de pixels).
 
+Fastai est une librairie de deep learning, fournissant aux praticiens des composants de haut niveau qui peuvent rapidement et facilement fournir des résultats de pointe dans les domaines d’apprentissage profond standard, et fournit aux chercheurs des composants de faible niveau qui peuvent être mélangés et assortis pour construire de nouvelles approches. Il vise à faire les deux choses sans compromis substantiels dans la facilité d’utilisation, la flexibilité ou la performance. Cela est possible grâce à une architecture soigneusement stratifiée, qui exprime les modèles sous-jacents communs de nombreuses techniques d’apprentissage profond et de traitement des données en termes d’abstractions découplées. Ces abstractions peuvent s’exprimer de manière concise et claire en tirant parti du dynamisme du langage python sous-jacent et de la flexibilité de la bibliothèque PyTorch.
+
+
+Fastai est organisé autour de 2 objectifs principaux de conception: être accessible et rapidement productif, tout en étant profondément hackable et configurable. Il est construit au-dessus d’une hiérarchie d’API de niveau inférieur qui fournissent des blocs de construction composables. De cette façon, un utilisateur qui souhaite réécrire une partie de l’API de haut niveau ou ajouter un comportement particulier pour répondre à ses besoins n’a pas à apprendre à utiliser le niveau le plus bas.
+
+
+fastAI est conçu pour prendre en charge à la fois l’informatique interactive ainsi que le développement de logiciels traditionnels. Il est aussi est conçu pour soutenir cette approche, sans compromettre la main-d’l’et la compréhension.
+La bibliothèque fastai simplifie la formation rapide et précise des réseaux neuronaux en utilisant les meilleures pratiques modernes. Il est basé sur la recherche dans les meilleures pratiques d’apprentissage profond entrepris à fast.ai, y compris "out of the box » support pour la vision, texte, tabulaire, et collab (filtrage collaboratif) modèles.
